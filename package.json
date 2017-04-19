@@ -1,0 +1,21 @@
+{
+  "name": "strip-scripts",
+  "version": "0.9.0",
+  "description": "Strip all script tags from a given string containing markup.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronwilby/strip-scripts.git"
+  },
+  "keywords": [
+    "strip",
+    "scripts",
+    "jsdom"
+  ],
+  "author": "Cameron Wilby <cameron@wilby.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cameronwilby/strip-scripts/issues"
+  },
+  "homepage": "https://github.com/cameronwilby/strip-scripts#readme"
+}
